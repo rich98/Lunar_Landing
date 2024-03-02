@@ -1,4 +1,4 @@
-# STEM Series Apollo 11 Lunar Module Descent Simulation
+# STEM Series: Apollo 11 Lunar Module Descent Simulation
 
 This Python script simulates the descent of the Apollo 11 Lunar Module to the moon's surface. It's a great example of how coding and STEM (Science, Technology, Engineering, Mathematics) come together!
 
